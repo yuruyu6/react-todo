@@ -1,5 +1,6 @@
 <h1 align="center">Simple To-Do list using React and Chakra UI</h1>
 <br>
+Demo: https://yuruyu6.github.io/react-todo/
 
 ## Available Scripts
 
